@@ -9,7 +9,7 @@
 ## Olá 👋
 Meu nome é Genival Neto, Desenvolvedor.
 
-__Resumo:__
+>__Atualmente:__
 
 Acadêmico em Sistemas de Informação Tenho experiência em Análise de Desenvolvimento de Sistemas, atualmente trabalhando como jovem aprendiz na Prosegur e Presidente voluntário do Rotaract Club de Patos-PB.
 
