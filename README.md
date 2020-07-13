@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:genivalcandeiadon.neto@gmail.com)
 
 ## Olá 👋
-Meu nome é Genival Neto, Desenvolvedor.
+Meu nome é Genival Neto.
 
 >__Atualmente:__
 
