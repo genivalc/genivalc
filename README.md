@@ -15,7 +15,7 @@ Acadêmico em Sistemas de Informação Tenho experiência em Análise de Desenvo
 
 Entusiasta de tudo o que envolve IA e desenvolvimento móvel.
 
-Atualmente focado na aprendizagem (Flutter , Kotlin e Swift 🎯)
+Focado na aprendizagem (Flutter , Kotlin e Swift 🎯)
 
 > __Tecnologias:__
 
