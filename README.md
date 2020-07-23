@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/genivalc](https://github.com/genivalc)
 
-- 📝 I regulary write articles on [Technology](Technology)
-
 - 💬 Ask me about **Javascript, flutter , Java**
 
 - 📫 How to reach me **genivalcandeiadon.neto@gmail.com**
