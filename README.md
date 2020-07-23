@@ -1,29 +1,17 @@
-# Genival Neto :man_technologist:
+<h1 align="center">Hi 👋, I'm Genival Neto</h1>
+<h3 align="center">FullStack Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genivalc" alt="genivalc" /> </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/genivalc)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/genival-candeia-neto/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=558396731067&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/GenivalCNNeto)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:genivalcandeiadon.neto@gmail.com)
+- 👨‍💻 All of my projects are available at [https://github.com/genivalc](https://github.com/genivalc)
 
-## Olá 👋
-Meu nome é Genival Neto.
+- 📝 I regulary write articles on [Technology](Technology)
 
->__Atualmente:__
+- 💬 Ask me about **Javascript, flutter , Java**
 
-Acadêmico em Sistemas de Informação Tenho experiência em Análise de Desenvolvimento de Sistemas, atualmente trabalhando como jovem aprendiz na Prosegur e Presidente voluntário do Rotaract Club de Patos-PB.
+- 📫 How to reach me **genivalcandeiadon.neto@gmail.com**
 
-Entusiasta de tudo o que envolve IA e desenvolvimento móvel.
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=genivalc&show_icons=true" alt="genivalc" /> </p>
 
-Focado na aprendizagem (Flutter , Kotlin e Swift 🎯)
-
-> __Tecnologias:__
-
-- Java
-- Javascript
-- Flutter
-- CSS
-- HTM
-- Git
-- SQL
-- NOSQL
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/genival-candeia-neto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/genival-candeia-neto/" height="20" width="20" /></a>
+</p>
