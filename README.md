@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Teotalk](https://github.com/andersonmenezesm/teotalk)
 
-- 🌱 I’m currently learning **Graduation in Information Systems and JavaScript**
+- 🌱 I’m currently learning **Graduation in Information Systems**
 
 - 👯 I’m looking to collaborate on **Codify Developer**
 
