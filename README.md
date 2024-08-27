@@ -1,51 +1,55 @@
-<h1 align="center">Hi 👋, I'm Genival Neto</h1>
-<h3 align="center"><strong  >"Achieving perfection is impossible, but getting closer to it each time is not."</strong></h3>
+# Hi 👋, I'm Genival Neto
 
+## "Achieving perfection is impossible, but getting closer to it each time is not."
 
-- 🔭 I’m currently working on [Accenture]([https://github.com/andersonmenezesm/teotalk](https://www.bing.com/search?pglt=41&q=accenture+brasik&cvid=6ae28a3c6ffa4148975f8e0986176a8f&aqs=edge..69i57j0l8.7735j0j1&FORM=ANAB01&PC=U531))
+I'm a Senior Software Engineering Analyst at [Accenture](https://www.accenture.com/) with a strong background in both front-end and back-end development. Passionate about creating innovative solutions, I thrive on tackling complex challenges and continually seek ways to enhance my skills and impact.
 
-- 🌱 I’m currently learning **Graduation in Information Systems**
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/genivalc](https://github.com/genivalc)
+I specialize in a wide range of technologies and frameworks, working on impactful projects across different platforms. Currently, I am focused on contributing to major e-commerce projects at Accenture, using my expertise to drive success and efficiency.
 
-- 📝 I regulary write articles on [https://github.com/genivalc/genivalc/blob/master/Technology](https://github.com/genivalc/genivalc/blob/master/Technology)
+## Skills
 
-- 💬 Ask me about **Game**
+### Front-end
+- **Frameworks/Libraries:** Angular, React, React Native, Next.js, Vue, Nuxt.js, Flutter, SAP Commerce Cloud (Spartacus)
+- **Languages:** JavaScript (ES5, ES6), TypeScript, Dart
+- **Styling:** CSS, Sass, Tailwind
+- **Testing:** Jest, Jasmine
 
-- 📫 How to reach me **genivalcandeiadon.neto@gmail.com**
+### Back-end
+- **Frameworks:** Node.js (Express, AdonisJS, NestJS), Java (Spring Boot), PHP (Laravel), SAP Hybris, Magento
+- **Languages:** Java, JavaScript, TypeScript, PHP
 
-- ⚡ Fun fact **I love music**
+### Databases
+- **SQL:** MySQL, PostgreSQL, SQL Server, SQLite
+- **NoSQL:** MongoDB, Redis, Realm, Mongoose
 
-### Stacks:
+### DevOps & Tools
+- **Cloud:** Microsoft Azure, Google Cloud, DigitalOcean, Umbler, Netlify
+- **Tools:** Docker, Jenkins, Kubernetes, ArgoCD, RabbitMQ, Datadog
+- **Others:** Axios, Ajax, GraphQL
 
-framework: Angular | Nodejs | NestJS | Spartacus | Nuxtjs | Vuejs | React Native | React | Flutter | Spring
+### Testing Tools
+- **API Testing:** Insomnia, Postman, SoapUI, Mockoon
 
-database: PostgreSQL | Redis | Clickhouse | Mongodb | MySQL
+### Methodologies
+- OOP, MVC, Atomic Design
 
-frontend library: Tailwind | SASS | Firebase | 
+### Version Control
+- Git, GitHub, GitLab, Bitbucket
 
-backend library: Postgraphile | Passport |
+## Connect with Me
 
-Devops: Jenkins | Docker | Kubernetes
+- [Dev.to](https://dev.to/genivalc)
+- [Twitter](https://twitter.com/genivalneto3)
+- [LinkedIn](https://linkedin.com/in/genival-candeia-neto)
+- [Facebook](https://fb.com/genival.neto.31)
+- [Instagram](https://instagram.com/genival_netofp)
 
-Cloud: Google Cloud | Microsoft Azure |  SAP Commerce Cloud | Digitalocean
+## GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/genivalc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="genivalc" height="30" width="40" /></a>
-<a href="https://twitter.com/genivalneto3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="genivalneto3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/genival-candeia-neto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="genival-candeia-neto" height="30" width="40" /></a>
-<a href="https://fb.com/genival.neto.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="genival.neto.31" height="30" width="40" /></a>
-<a href="https://instagram.com/genival_netofp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="genival_netofp" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">GitHub Stats and Used Languages:</h3>
-
-[![stats](https://github-readme-stats.vercel.app/api?username=genivalc&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=genivalc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genivalc&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genivalc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=genivalc&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=genivalc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=genivalc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
