@@ -41,9 +41,7 @@ I specialize in a wide range of technologies and frameworks, working on impactfu
 ## Connect with Me
 
 - [Dev.to](https://dev.to/genivalc)
-- [Twitter](https://twitter.com/genivalneto3)
 - [LinkedIn](https://linkedin.com/in/genival-candeia-neto)
-- [Facebook](https://fb.com/genival.neto.31)
 - [Instagram](https://instagram.com/genival_netofp)
 
 ## GitHub Stats
